@@ -1,0 +1,53 @@
+@media screen and (max-width: 425px) {
+  #imgLogo{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }.paddingBottom50 {
+    padding-bottom: 90px;
+  }#btn1{
+    padding: 30px 49px;
+  }#btn2{
+    padding: 30px 65px;
+  }#btnRedirectContainer{
+    margin-top: /*25px*/ 70px;
+  }
+
+  #formSignUp{
+    width:90%;
+  }input{
+    padding: 10px 70px 10px 5px;
+  }
+  #fieldset2 {
+    margin-bottom: 35px;
+  }
+}@media screen and (max-width: 426px) and (min-width: 410px){
+  #btnRedirectContainer{
+    margin-top: /*25px*/ 125px;
+  }
+}@media screen and (max-width: 890px) and (min-width: 768px){
+  #html{
+    height: 150%;
+  }
+  #imgLogo{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }.paddingBottom50 {
+    padding-bottom: 90px;
+  }#btn1{
+    padding: 16px 40px;
+  }#btn2{
+    padding: 16px 55px;
+  }#btnRedirectContainer{
+    margin-top: 200px;
+  }
+
+  input{
+    padding: 10px 45% 10px 5px;
+  }
+}@media screen and (max-width: 1024px) and (min-width: 891px){
+  input{
+    padding: 10px 57% 10px 5px;
+  }
+}
